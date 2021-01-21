@@ -1,0 +1,31 @@
+{
+    "pets" : [
+        {
+            "name" : "Abc",
+            "type" : "Dog",
+            "gender" : "Male",
+            "age" : "10",
+            "src" : "https://loremflickr.com/96/96",
+            "description" : "",
+            "fee" : "$199"
+        },
+        {
+            "name" : "Def",
+            "type" : "Cat",
+            "gender" : "Female",
+            "age" : "2",
+            "src" : "https://loremflickr.com/96/96",
+            "description" : "",
+            "fee" : "$199"
+        },
+        {
+            "name" : "Ghi",
+            "type" : "Hamster",
+            "gender" : "Female",
+            "age" : "2",
+            "src" : "https://loremflickr.com/96/96",
+            "description" : "",
+            "fee" : "$199"
+        }
+    ]
+}
